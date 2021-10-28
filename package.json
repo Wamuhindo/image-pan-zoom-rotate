@@ -2,11 +2,11 @@
   "name": "image-pan-zoom-rotate",
   "version": "1.5.0",
   "description": "React library to give control on image to move zoom and rotate",
-  "author": "mgorabbani",
+  "author": "abed",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/image-pan-zoom-rotate/image-pan-zoom-rotate.git"
+    "url": "https://github.com/Wamuhindo/image-pan-zoom-rotate.git"
   },
   "main": "dist/index.js",
   "module": "dist/index.modern.js",
@@ -71,9 +71,9 @@
   ],
   "dependencies": {},
   "bugs": {
-    "url": "https://github.com/image-pan-zoom-rotate/image-pan-zoom-rotate/issues"
+    "url": "https://github.com/Wamuhindo/image-pan-zoom-rotate/issues"
   },
-  "homepage": "https://github.com/image-pan-zoom-rotate/image-pan-zoom-rotate#readme",
+  "homepage": "https://github.com/Wamuhindo/image-pan-zoom-rotate#readme",
   "directories": {
     "example": "example"
   }

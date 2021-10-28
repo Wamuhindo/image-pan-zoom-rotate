@@ -23,7 +23,7 @@
 ## Install
 
 ```bash
-npm install --save react-image-pan-zoom-rotate
+npm install --save image-pan-zoom-rotate
 ```
 
 or
